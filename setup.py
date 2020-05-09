@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-	name="mytest",
+	name="",
 	version="0.0.1",
 	description="just testing how to do it",
 	license='MIT',
-	packages=["mytest"],
-	author="victor MT",
-	author_email="victor@moronalgo.com",
+	packages=["pavan-py"],
+	author="Pavan Vachhani",
+	author_email="vachhanihpavan@gmail.com",
 	keywords=["example"],
-	url="https://github.com/untikiti/helloapp")
+	url="https://github.com/vachhanihpavan/pavan-py")
