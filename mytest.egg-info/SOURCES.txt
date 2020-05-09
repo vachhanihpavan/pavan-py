@@ -1,0 +1,8 @@
+README.rst
+setup.py
+mytest/__init__.py
+mytest/hello.py
+mytest.egg-info/PKG-INFO
+mytest.egg-info/SOURCES.txt
+mytest.egg-info/dependency_links.txt
+mytest.egg-info/top_level.txt
